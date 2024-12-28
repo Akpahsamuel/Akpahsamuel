@@ -11,7 +11,7 @@ Skills:
 - AI/ML: TensorFlow, PyTorch, Scikit-learn, Natural Language Processing
 
 Experience:
-- Blockchain Developer Student Sdvocate at Mowblox (2024 - Present)
+- Blockchain Developer Student Advocate at Mowblox (2024 - Present)
 - Been to Hackathons and won ETHAccra, Web3Lagos, ETHSafari, Base Africa Buildathon
 
 
