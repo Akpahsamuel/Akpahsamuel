@@ -2,7 +2,7 @@
 -Title: Samuel - Blockchain Developer, Web3 Builder, and AI/ML Enthusiast
 
 Introduction:
-Samuel is a passionate developer with a focus on blockchain technology, web3, and AI/ML. He has experience in building decentralized applications, smart contracts, and has a strong foundation in Python programming. Samuel is currently working for Mowblox, onboarding many people onto the blockchain.
+A passionate developer with a focus on blockchain technology, web3, and AI/ML. I have  experience in building decentralized applications, smart contracts, and have a strong foundation in Python programming. I am is currently working for Mowblox, onboarding many people onto the blockchain.
 
 Skills:
 - Blockchain Development: Solidity, Ethereum, Vyper
