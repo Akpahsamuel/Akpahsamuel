@@ -17,12 +17,9 @@ Welcome! I’m a passionate **Blockchain Developer** focused on building scalabl
 
 - **Python**:  
   - Backend development  
-  - Data pipelines and automation  
-  - DeFi analytics tools
 
-- **React Native**:  
-  - Cross-platform mobile app development  
-  - Seamless integration with Web3 APIs and wallet SDKs
+
+
 
 ---
 
