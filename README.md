@@ -1,4 +1,4 @@
-# 👨‍💻 Blockchain Developer – Sui Ecosystem & Web3 Applications
+# 👨‍💻 Blockchain Developer
 
 Welcome! I’m a passionate **Blockchain Developer** focused on building scalable and innovative solutions in the **Sui ecosystem** and the broader **Web3** space.
 
