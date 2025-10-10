@@ -4,7 +4,7 @@ Welcome! I’m a passionate **Blockchain Developer** focused on building scalabl
 
 ---
 
-## 🧠 Languages & Technical Skills
+##  Languages & Technical Skills
 
 - **Move**:  
   - Smart contract development on the **Sui blockchain**  
@@ -33,7 +33,7 @@ Welcome! I’m a passionate **Blockchain Developer** focused on building scalabl
 
 ---
 
-## 📱 Connect with Me
+##  Connect with Me
 
 - Twitter: [@lionprado17](https://twitter.com/lionprado17)  
 - Status: **Available for Hire**
