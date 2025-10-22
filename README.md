@@ -1,4 +1,4 @@
-# 👨‍💻 Blockchain Developer
+#  Blockchain Developer
 
 Welcome! I’m a passionate **Blockchain Developer** focused on building scalable and innovative solutions in the **Sui ecosystem** and the broader **Web3** space.
 
@@ -23,7 +23,7 @@ Welcome! I’m a passionate **Blockchain Developer** focused on building scalabl
 
 ---
 
-## 🎯 Focus Areas
+##  Focus Areas
 
 - 🔗 Blockchain Development (Sui Ecosystem)/ move based or evm /solana
 - ✍️ Smart Contract Engineering  
