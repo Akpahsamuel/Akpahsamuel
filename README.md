@@ -7,7 +7,7 @@ Welcome! I’m a passionate **Blockchain Developer** focused on building scalabl
 ##  Languages & Technical Skills
 
 - **Move**:  
-  - Smart contract development on the **Sui blockchain**  
+  - Smart contract development on the **Move blockchains**  
   - NFT creation and management  
   - Sui-native decentralized applications
 
@@ -16,7 +16,9 @@ Welcome! I’m a passionate **Blockchain Developer** focused on building scalabl
   - dApp integration with wallets and smart contracts
 
 - **Python**:  
-  - Backend development  
+  - Backend development
+  - Rust
+
 
 
 
