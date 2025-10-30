@@ -15,8 +15,8 @@
   - Full-stack Web3 development  
   - dApp integration with wallets and smart contracts
 
-- **Python**:  
-  - Backend development
+- **Backend development**:  
+  - Python
   - Rust
 
 
