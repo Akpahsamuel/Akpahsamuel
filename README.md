@@ -42,4 +42,4 @@
 
 ---
 
-> ⚡ Let’s build the future of Web3 together — one block at a time!
+> ⚡ Let’s build the future of the internet together — one block at a time!
