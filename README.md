@@ -1,6 +1,6 @@
 #  Blockchain Developer
 
- I’m a passionate **Blockchain Developer** focused on building scalable and innovative solutions in the **Sui ecosystem** and the broader **Web3** space.
+ I’m a passionate **Blockchain Developer** focused on building scalable and innovative solutions in the **Software ecosystem** and the broader **Web3** space.
 
 ---
 
