@@ -12,7 +12,8 @@
   - Sui-native decentralized applications
 
 - **TypeScript / JavaScript**:  
-  - Full-stack Web3 development  
+  - Full-stack 
+  - Web3 development  
   - dApp integration with wallets and smart contracts
 
 - **Backend development**:  
