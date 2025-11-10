@@ -19,7 +19,7 @@
 - **Backend development**:  
   - Python
   - Rust
-  - Versatile Emgineer
+  - Versatile Engineer
 
 
 
