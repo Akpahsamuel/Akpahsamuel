@@ -11,7 +11,7 @@
   - NFT creation and management  
   - Sui-native decentralized applications
 
-- **TypeScript <JavaScript> **:  
+- **TypeScript / JavaScript **:  
   - Full-stack 
   - Web3 development  
   - dApp integration with wallets and smart contracts
