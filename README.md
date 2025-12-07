@@ -41,7 +41,7 @@
 ##  Connect with Me
 
 - Twitter: [@lionprado17](https://twitter.com/lionprado17)  
-- Status: **Available for Hire**
+- Status: 
 
 ---
 
