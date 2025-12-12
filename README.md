@@ -34,6 +34,7 @@
 -  Smart Contract Engineering  
 -  Web3 Applications (Frontend & Backend)  
 -  Developer Relations & Community Building  
+- AI lover
 
 
 
