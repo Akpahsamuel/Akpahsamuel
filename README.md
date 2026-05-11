@@ -4,7 +4,6 @@
  Lover of weird codes <⚡️>.
 
 
-
 ##  Languages & Technical Skills
 
 - **Move**:  
