@@ -23,7 +23,7 @@
 
 
 
---
+
 ###  Focus Areas
 
 -  Blockchain Development (Sui Ecosystem)/ move based or evm /solana
