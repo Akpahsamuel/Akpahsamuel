@@ -29,7 +29,6 @@
 -  AI lover 
 
 
-
 ##  Connect with Me
 
 - Twitter: [@lionprado17](https://twitter.com/lionprado17)  
