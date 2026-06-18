@@ -21,7 +21,6 @@
   - Versatile Engineer
 
 ###  Focus Areas
-
 -  Blockchain Development (Sui Ecosystem)/ move based or evm /solana
 -  Smart Contract Engineering  
 -  Web3 Applications (Frontend & Backend)  
