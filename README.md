@@ -33,5 +33,4 @@
 - Status: 
 
 ----
-
  ⚡ Let’s build the future of the internet together — one block at a time!
