@@ -4,7 +4,6 @@
  Lover of weird codes <⚡️>.
 
 ##  Languages & Technical Skills
-
 - **Move**:  
   - Smart contract development on the **Move blockchains**  
   - NFT creation and management  
