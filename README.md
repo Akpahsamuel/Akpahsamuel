@@ -8,7 +8,6 @@
   - Smart contract development on the **Move blockchains**  
   - NFT creation and management  
   - Sui-native decentralized applications
-
 - **TypeScript / JavaScript**:  
   - Full-stack 
   - Web3 development  
