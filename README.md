@@ -2,7 +2,6 @@
 
  I’m a passionate **Blockchain Engineer** focused on building scalable and innovative solutions in the **Software ecosystem** and the broader **Web3** space.
  Lover of weird codes <⚡️>.
-
 ##  Languages & Technical Skills
 - **Move**:  
   - Smart contract development on the **Move blockchains**  
