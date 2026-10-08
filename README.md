@@ -12,6 +12,7 @@
   - dApp integration with wallets and smart contracts
 - **Backend development**:  
   - Python
+  - Go
   - Rust
   - Versatile Engineer
 ###  Focus Areas
